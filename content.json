@@ -247,8 +247,9 @@
     "category": "関心テーマ",
     "tags": ["AI駆動開発", "品質保証", "テスト戦略"],
     "date": "2026-03-28",
+    "image": "slides/qa4aidd-summary.png",
     "summary": "AI駆動開発（AIDD）時代のQAのあり方。生成AIがコードを書く世界で、品質をどう担保するか。",
-    "body": "AI駆動開発（AI-Driven Development）が普及する中で、従来のQAプロセスでは対応しきれない新しい品質リスクが生まれている。\n\nコード生成の正しさ検証、プロンプトの再現性、ハルシネーション対策など、QAエンジニアの役割が根本から問い直される領域。"
+    "body": "AI駆動開発（AI-Driven Development）が普及する中で、従来のQAプロセスでは対応しきれない新しい品質リスクが生まれている。\n\n4フェーズ（仕様定義→計画・設計→実装→品質検証）× 9リスク（AI出力側5つ + 人間側4つ）のマッピングで対策を整理。各リスクに具体的な取り組みと測定可能なKPIを設定し、段階的にAI自律度を上げていく。"
   },
   {
     "id": "interest-ux-usability",
@@ -261,12 +262,13 @@
   },
   {
     "id": "interest-cognitive-psychology",
-    "title": "認知心理学",
+    "title": "認知心理学 x ソフトウェア品質",
     "category": "関心テーマ",
-    "tags": ["認知バイアス", "意思決定", "ヒューマンエラー"],
+    "tags": ["認知心理学", "CQL", "認知品質", "UX評価", "行動ログ分析"],
     "date": "2026-03-28",
-    "summary": "人間の認知特性を理解し、テスト設計やUI評価に応用する。",
-    "body": "人間がどのように情報を知覚・記憶・判断するかを理解することで、テスト設計の観点出しやUI/UX評価の精度が向上する。\n\n認知バイアスやヒューマンエラーの知見は、探索的テストのチャーター設計にも直結する。"
+    "image": "images/interest-cognitive-psychology.png",
+    "summary": "ログデータから認知品質を測る。Dead Click / Rage Click を認知心理学の理論で読み解く。",
+    "body": "CQL（Cognitive Quality from Logs）: 認知心理学の理論とログデータを組み合わせ、ソフトウェアの認知品質を評価するフレームワークを構想中。\n\nDead Click = 発見性、Rage Click = 操作性、Excessive Scroll = 処理容易性、Quick Back = 理解性。Sentry + Datadog + Clarity の3ツールで技術問題と認知問題を切り分ける。"
   },
   {
     "id": "interest-claude-code",
