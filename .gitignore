@@ -1,3 +1,9 @@
 node_modules/
 .DS_Store
 .env
+.playwright-mcp/
+font-comparison/
+登壇資料/
+
+# Marpソースは公開不要（画像のみ公開）
+slides/*.md
