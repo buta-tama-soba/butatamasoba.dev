@@ -1,0 +1,41 @@
+[
+  {
+    "id": "jasst-tokyo-26-ai-collaborative-testing",
+    "title": "生成AIで速度と品質を両立する、QAエンジニア・開発者連携のAI協調型テストプロセス",
+    "category": "登壇履歴",
+    "tags": ["JaSST'26 Tokyo", "AI協調", "QAプロセス", "開発者連携"],
+    "date": "2026-03-20",
+    "image": "https://files.speakerdeck.com/presentations/3c7f9be1a7b04751870b02fff297de4b/slide_0.jpg",
+    "summary": "QAエンジニアと開発者がAIを介して連携する、新しいテストプロセスの提案。",
+    "body": "JaSST Tokyo '26（Japan Symposium on Software Testing 2026 東京）での登壇。\n\n生成AIを活用して速度と品質を両立する、QAエンジニアと開発者の協働によるAI協調型テストプロセスについて発表。",
+    "links": {
+      "speakerdeck": "https://speakerdeck.com/shota_kusaba/sheng-cheng-aidesu-du-topin-zhi-woliang-li-suru-qaenziniakai-fa-zhe-lian-xi-noaixie-diao-xing-tesutopurosesu"
+    }
+  },
+  {
+    "id": "leverageslab-context-engineering",
+    "title": "日々のテストに役立つコンテキストの収集事例",
+    "category": "登壇履歴",
+    "tags": ["レバテックLAB", "コンテキスト設計", "生成AI", "テスト設計"],
+    "date": "2026-03-05",
+    "image": "https://files.speakerdeck.com/presentations/0cdc9194381041569cb82b87337a2f3c/slide_0.jpg",
+    "summary": "テスト設計のAI活用における、期待通りの出力を得るためのコンテキスト収集の実践事例。",
+    "body": "レバテックLAB主催「テスト設計のAI活用 〜 期待通りの出力を得るためのコンテキスト設計 〜」での登壇。\n\n日々のテスト業務の中で、AIに適切なコンテキストを渡すためにどのような情報を収集・整理しているかの実践事例を紹介。",
+    "links": {
+      "speakerdeck": "https://speakerdeck.com/shota_kusaba/context-engineering-for-testing"
+    }
+  },
+  {
+    "id": "stac2025-test-design-tailoring",
+    "title": "生成AIでテスト設計はどこまでできる？「テスト粒度」を操るテーラリング術",
+    "category": "登壇履歴",
+    "tags": ["STAC2025", "生成AI", "テスト設計", "テーラリング"],
+    "date": "2025-12-06",
+    "image": "https://files.speakerdeck.com/presentations/8835458f33b74e909ffd77f5f9af04dc/slide_0.jpg",
+    "summary": "生成AIを活用したテスト設計の自動化と、チームに合わせた「テスト粒度」のテーラリング術。",
+    "body": "ソフトウェアテスト自動化カンファレンス2025（STAC2025）での登壇。\n\n生成AIを活用したテスト設計の自動化について、チームの開発プロセスに合わせて最適化する「テーラリング術」を紹介。テストベース収集・分析の自動化と、必要十分なテストケース作成の事例を中心に解説。",
+    "links": {
+      "speakerdeck": "https://speakerdeck.com/shota_kusaba/sheng-cheng-aidetesutoshe-ji-hadokomadedekiru-tesutoli-du-wocao-ruteraringushu"
+    }
+  }
+]
