@@ -8,9 +8,7 @@
     "image": "https://files.speakerdeck.com/presentations/3c7f9be1a7b04751870b02fff297de4b/slide_0.jpg",
     "summary": "QAエンジニアと開発者がAIを介して連携する、新しいテストプロセスの提案。",
     "body": "JaSST Tokyo '26（Japan Symposium on Software Testing 2026 東京）での登壇。\n\n生成AIを活用して速度と品質を両立する、QAエンジニアと開発者の協働によるAI協調型テストプロセスについて発表。",
-    "links": {
-      "speakerdeck": "https://speakerdeck.com/shota_kusaba/sheng-cheng-aidesu-du-topin-zhi-woliang-li-suru-qaenziniakai-fa-zhe-lian-xi-noaixie-diao-xing-tesutopurosesu"
-    }
+    "links": { "speakerdeck": "https://speakerdeck.com/shota_kusaba/sheng-cheng-aidesu-du-topin-zhi-woliang-li-suru-qaenziniakai-fa-zhe-lian-xi-noaixie-diao-xing-tesutopurosesu" }
   },
   {
     "id": "leverageslab-context-engineering",
@@ -21,9 +19,7 @@
     "image": "https://files.speakerdeck.com/presentations/0cdc9194381041569cb82b87337a2f3c/slide_0.jpg",
     "summary": "テスト設計のAI活用における、期待通りの出力を得るためのコンテキスト収集の実践事例。",
     "body": "レバテックLAB主催「テスト設計のAI活用 〜 期待通りの出力を得るためのコンテキスト設計 〜」での登壇。\n\n日々のテスト業務の中で、AIに適切なコンテキストを渡すためにどのような情報を収集・整理しているかの実践事例を紹介。",
-    "links": {
-      "speakerdeck": "https://speakerdeck.com/shota_kusaba/context-engineering-for-testing"
-    }
+    "links": { "speakerdeck": "https://speakerdeck.com/shota_kusaba/context-engineering-for-testing" }
   },
   {
     "id": "stac2025-test-design-tailoring",
@@ -34,8 +30,215 @@
     "image": "https://files.speakerdeck.com/presentations/8835458f33b74e909ffd77f5f9af04dc/slide_0.jpg",
     "summary": "生成AIを活用したテスト設計の自動化と、チームに合わせた「テスト粒度」のテーラリング術。",
     "body": "ソフトウェアテスト自動化カンファレンス2025（STAC2025）での登壇。\n\n生成AIを活用したテスト設計の自動化について、チームの開発プロセスに合わせて最適化する「テーラリング術」を紹介。テストベース収集・分析の自動化と、必要十分なテストケース作成の事例を中心に解説。",
-    "links": {
-      "speakerdeck": "https://speakerdeck.com/shota_kusaba/sheng-cheng-aidetesutoshe-ji-hadokomadedekiru-tesutoli-du-wocao-ruteraringushu"
-    }
+    "links": { "speakerdeck": "https://speakerdeck.com/shota_kusaba/sheng-cheng-aidetesutoshe-ji-hadokomadedekiru-tesutoli-du-wocao-ruteraringushu" }
+  },
+  {
+    "id": "book-context-engineering",
+    "title": "コンテキストエンジニアリング",
+    "category": "影響を受けた書籍",
+    "tags": ["LLM", "RAG", "エージェント"],
+    "date": "2026-02-10",
+    "image": "https://m.media-amazon.com/images/P/4297154196.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "LLMの原理、RAG・エージェント開発から読み解くコンテキストエンジニアリング。",
+    "body": "蒲生弘郷 著 / 技術評論社\n\nLLMに対して適切なコンテキストを構成する技術を、AIモデルの原理やAPI挙動から解説。RAGやAIエージェントの実践開発で生じるコンテキストエンジニアリング技法を紹介。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4297154196" }
+  },
+  {
+    "id": "book-cognitive-psychology",
+    "title": "基礎から学ぶ認知心理学",
+    "category": "影響を受けた書籍",
+    "tags": ["認知心理学", "UX", "人間の認識"],
+    "date": "2015-09-01",
+    "image": "https://m.media-amazon.com/images/P/4641150273.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "人間の認識の不思議を体系的に学べる入門書。",
+    "body": "服部雅史・小島治幸・北神慎司 著 / 有斐閣ストゥディア\n\n感覚・知覚・記憶・思考・判断・意思決定など、人間の認知プロセスを体系的に学べる。テスト設計やUXデザインの背景理解に役立つ。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4641150273" }
+  },
+  {
+    "id": "book-empowered",
+    "title": "EMPOWERED",
+    "category": "影響を受けた書籍",
+    "tags": ["プロダクトマネジメント", "リーダーシップ", "チーム"],
+    "date": "2021-07-02",
+    "image": "https://m.media-amazon.com/images/P/4820729241.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "普通のチームが並外れた製品を生み出すプロダクトリーダーシップ。",
+    "body": "マーティ・ケーガン 著 / 日本能率協会マネジメントセンター\n\nAmazon、Apple、Googleなどが革新を続ける理由と、イノベーションを生む環境を作るプロダクトリーダーシップの原則を解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4820729241" }
+  },
+  {
+    "id": "book-inspired",
+    "title": "INSPIRED",
+    "category": "影響を受けた書籍",
+    "tags": ["プロダクトマネジメント", "プロダクト開発"],
+    "date": "2019-11-01",
+    "image": "https://m.media-amazon.com/images/P/4820727508.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "熱狂させる製品を生み出すプロダクトマネジメント。",
+    "body": "マーティ・ケーガン 著 / 日本能率協会マネジメントセンター\n\nシリコンバレーのトップ企業のプロダクトマネジメント手法を体系化。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4820727508" }
+  },
+  {
+    "id": "book-loved",
+    "title": "LOVED",
+    "category": "影響を受けた書籍",
+    "tags": ["プロダクトマーケティング", "GTM", "メッセージング"],
+    "date": "2023-07-16",
+    "image": "https://m.media-amazon.com/images/P/480059121X.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "市場を形づくり製品を定着に導くプロダクトマーケティング。",
+    "body": "マルティナ・ラウチェンコ 著 / 日本能率協会マネジメントセンター\n\nSVPGシリーズ第3弾。プロダクトマーケティングの4つの基本、GTM戦略、メッセージングフレームワークを実例とともに解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/480059121X" }
+  },
+  {
+    "id": "book-team-topologies",
+    "title": "チームトポロジー",
+    "category": "影響を受けた書籍",
+    "tags": ["組織設計", "チーム", "DevOps"],
+    "date": "2021-12-01",
+    "image": "https://m.media-amazon.com/images/P/4820729632.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "価値あるソフトウェアをすばやく届ける適応型組織設計。",
+    "body": "マシュー・スケルトン、マニュエル・パイス 著 / 日本能率協会マネジメントセンター\n\n4つの基本チームタイプと3つのインタラクションパターンに基づく組織設計モデル。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4820729632" }
+  },
+  {
+    "id": "book-software-test-guide",
+    "title": "ソフトウェアテスト徹底指南書",
+    "category": "影響を受けた書籍",
+    "tags": ["テスト", "品質", "アジャイル"],
+    "date": "2025-06-17",
+    "image": "https://m.media-amazon.com/images/P/4297149095.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "開発の高品質と高スピードを両立させる実践アプローチ。",
+    "body": "井芹洋輝 著 / 技術評論社\n\nアジャイル・CI/CD・DevOps時代のテスト戦略からテスト自動化、チーム全体でのテスト推進までを体系的に解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4297149095" }
+  },
+  {
+    "id": "book-fullstack-testing",
+    "title": "フルスタックテスティング",
+    "category": "影響を受けた書籍",
+    "tags": ["テスト手法", "E2E", "セキュリティ"],
+    "date": "2025-07-16",
+    "image": "https://m.media-amazon.com/images/P/4798190470.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "10のテスト手法で実践する高品質ソフトウェア開発。",
+    "body": "Gayathri Mohan 著 / 翔泳社\n\n探索的テスト、自動機能テスト、継続的テスト、セキュリティテスト、パフォーマンステストなど10のテスト手法を体系的に学べる。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4798190470" }
+  },
+  {
+    "id": "book-economics-of-software-quality",
+    "title": "ソフトウェア品質の経済的側面",
+    "category": "影響を受けた書籍",
+    "tags": ["品質", "経済性", "見積り"],
+    "date": "2013-11-01",
+    "image": "https://m.media-amazon.com/images/P/4320097629.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "高品質ソフトウェアがもたらす経済的価値を豊富なデータで示す。",
+    "body": "Capers Jones 著 / 共立出版\n\n高品質ソフトウェアと低品質ソフトウェアの差異をライフサイクルを通して詳細に分析。欠陥予防・除去の経済性を実例とデータで解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4320097629" }
+  },
+  {
+    "id": "book-test-automation-guide",
+    "title": "テスト自動化実践ガイド",
+    "category": "影響を受けた書籍",
+    "tags": ["テスト自動化", "CI/CD", "Web"],
+    "date": "2022-06-01",
+    "image": "https://m.media-amazon.com/images/P/4798172359.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "継続的にWebアプリケーションを改善するための知識と技法。",
+    "body": "末村拓也 著 / 翔泳社\n\nWebアプリケーションのテスト自動化を継続的に改善するための知識と技法を実践的に解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4798172359" }
+  },
+  {
+    "id": "book-leading-quality",
+    "title": "LEADING QUALITY",
+    "category": "影響を受けた書籍",
+    "tags": ["品質文化", "組織", "QA"],
+    "date": "2023-11-13",
+    "image": "https://m.media-amazon.com/images/P/4048931121.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "品質の重要性を組織全体に広げ、品質文化を育てるための実践ガイド。",
+    "body": "Ronald Cummings-John、Owais Peer 著 / アスキードワンゴ\n\n品質の定義や測定だけでなく、組織として品質をどう実践するかを解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4048931121" }
+  },
+  {
+    "id": "book-exploratory-testing",
+    "title": "探索的テストの考え方",
+    "category": "影響を受けた書籍",
+    "tags": ["探索的テスト", "テスト設計", "手動テスト"],
+    "date": "2024-01-01",
+    "image": "https://m.media-amazon.com/images/P/4839986037.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "ソフトウェア開発のテスト設計とテクニック。",
+    "body": "James A. Whittaker 著 / マイナビ出版\n\n探索的テストの手法をツーリングテスト等の具体的な技法とともに体系的に解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4839986037" }
+  },
+  {
+    "id": "book-ux-design-for-engineers",
+    "title": "ITエンジニアのためのUXデザイン実践ノウハウ",
+    "category": "影響を受けた書籍",
+    "tags": ["UX", "設計", "エンジニア"],
+    "date": "2020-10-22",
+    "image": "https://m.media-amazon.com/images/P/4296106791.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "ITエンジニアがシステム開発でより良いUXを実現するための知識とノウハウ。",
+    "body": "宇津木希 著 / 日経BP\n\nUXデザインプロセスを5フェーズに分けて基礎と実践を解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4296106791" }
+  },
+  {
+    "id": "book-ui-design-tips",
+    "title": "縁の下のUIデザイン",
+    "category": "影響を受けた書籍",
+    "tags": ["UI", "デザイン", "実践TIPS"],
+    "date": "2023-04-01",
+    "image": "https://m.media-amazon.com/images/P/4297134098.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "小さな工夫で大きな効果をもたらす実践TIPS&テクニック。",
+    "body": "池田拓司 著 / 技術評論社（WEB+DB PRESS plus）\n\nユーザーが普段気づかない小さなUIの工夫がなぜ施されているかを丁寧に解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4297134098" }
+  },
+  {
+    "id": "book-product-manager-v2",
+    "title": "プロダクトマネージャーのしごと 第2版",
+    "category": "影響を受けた書籍",
+    "tags": ["プロダクトマネジメント", "実践"],
+    "date": "2023-10-01",
+    "image": "https://m.media-amazon.com/images/P/4814400438.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "1日目から使える実践ガイド。",
+    "body": "Matt LeMay 著 / オライリー・ジャパン\n\nプロダクトマネージャーの日々の実務を具体的に解説する実践ガイド。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4814400438" }
+  },
+  {
+    "id": "book-immunity-to-change",
+    "title": "なぜ人と組織は変われないのか",
+    "category": "影響を受けた書籍",
+    "tags": ["組織変革", "心理学", "リーダーシップ"],
+    "date": "2013-10-22",
+    "image": "https://m.media-amazon.com/images/P/4862761542.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "ハーバード流 自己変革の理論と実践。",
+    "body": "ロバート・キーガン 著 / 英治出版\n\n「変わりたいのに変われない」心理的メカニズムを「免疫マップ」で可視化し、個人と組織の変革を導く。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4862761542" }
+  },
+  {
+    "id": "book-ai-software-testing",
+    "title": "AIソフトウェアのテスト",
+    "category": "影響を受けた書籍",
+    "tags": ["AI", "テスト", "メタモルフィックテスト"],
+    "date": "2021-05-01",
+    "image": "https://m.media-amazon.com/images/P/4865942912.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "答のない答え合わせ [4つの手法]。",
+    "body": "佐藤直人・小川秀人・來間啓伸・明神智之 著 / リックテレコム\n\nメタモルフィックテスト、ニューロンカバレッジ、最大安全半径、網羅的検証の4手法でAIシステムをテストする方法を解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4865942912" }
+  },
+  {
+    "id": "book-aws-load-testing",
+    "title": "Amazon Web Services負荷試験入門",
+    "category": "影響を受けた書籍",
+    "tags": ["AWS", "負荷試験", "パフォーマンス"],
+    "date": "2017-09-23",
+    "image": "https://m.media-amazon.com/images/P/4774192627.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "クラウドの性能の引き出し方がわかる。",
+    "body": "仲川樽八・森下健 著 / 技術評論社（Software Design plusシリーズ）\n\nクラウド環境での負荷試験の手法と評価アプローチを実践的に解説。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4774192627" }
+  },
+  {
+    "id": "book-squbok-v2",
+    "title": "ソフトウェア品質知識体系ガイド -SQuBOK Guide- 第2版",
+    "category": "影響を受けた書籍",
+    "tags": ["SQuBOK", "品質", "知識体系"],
+    "date": "2014-11-29",
+    "image": "https://m.media-amazon.com/images/P/4274505227.01._SCLZZZZZZZ_SX200_.jpg",
+    "summary": "ソフトウェア品質の知識を体系化したガイド。",
+    "body": "SQuBOK策定部会 編 / オーム社\n\nソフトウェア品質に関する知識を体系的に整理。品質技術、品質マネジメント、品質特性を網羅。",
+    "links": { "amazon": "https://www.amazon.co.jp/dp/4274505227" }
   }
 ]

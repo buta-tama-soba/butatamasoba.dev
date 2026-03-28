@@ -272,15 +272,21 @@
       const linksDiv = document.createElement('div');
       linksDiv.className = 'modal__links';
 
-      if (topic.links.speakerdeck) {
-        const a = document.createElement('a');
-        a.className = 'modal__link';
-        a.href = topic.links.speakerdeck;
-        a.target = '_blank';
-        a.rel = 'noopener noreferrer';
-        a.textContent = 'Speaker Deck で見る';
-        linksDiv.appendChild(a);
-      }
+      const linkTypes = {
+        speakerdeck: 'Speaker Deck',
+        amazon: 'Amazon'
+      };
+      Object.entries(linkTypes).forEach(([key, label]) => {
+        if (topic.links[key]) {
+          const a = document.createElement('a');
+          a.className = 'modal__link';
+          a.href = topic.links[key];
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = label;
+          linksDiv.appendChild(a);
+        }
+      });
 
       $modalBody.parentNode.insertBefore(linksDiv, $modalDate);
     }
